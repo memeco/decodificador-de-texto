@@ -10,11 +10,11 @@ botaoDescriptografar.addEventListener("click", function(event){
 
     function descriptografa(texto){
 
-        var resultado = texto.replace(/enter/gi, 'e') 
+        var resultado = texto.replace(/ent/gi, 'e') 
         resultado = resultado.replace(/imes/gi, 'i') 
         resultado = resultado.replace(/ai/gi, 'a') 
-        resultado = resultado.replace(/ober/gi, 'o')
-        resultado = resultado.replace(/ufat/gi, 'u')
+        resultado = resultado.replace(/obe/gi, 'o')
+        resultado = resultado.replace(/ufa/gi, 'u')
    
         return resultado
     }
