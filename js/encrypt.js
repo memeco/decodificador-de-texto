@@ -11,11 +11,11 @@ botaoCriptografar.addEventListener("click", function(event){
 
     function criptografa(texto){
 
-        var resultado = texto.replace(/e/gi, 'enter') 
-        resultado = resultado.replace(/i/gi, 'imes') 
+        var resultado = texto.replace(/e/gi, 'ent') 
+        resultado = resultado.replace(/i/gi, 'ime') 
         resultado = resultado.replace(/a/gi, 'ai') 
-        resultado = resultado.replace(/o/gi, 'ober')
-        resultado = resultado.replace(/u/gi, 'ufat')
+        resultado = resultado.replace(/o/gi, 'ober)
+        resultado = resultado.replace(/u/gi, 'ufa')
    
         return resultado
     }
