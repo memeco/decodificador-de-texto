@@ -1,4 +1,4 @@
 # decodificador-de-texto
-Repositório contendo o desafio decodificador de texto |  Alura - Oracle ONE Turma 5
+Repositório contendo o desafio decodificador de texto |  Alura - Oracle ONE
 
-#challengeonedecodificador5
+#challengeonedecodificador2
